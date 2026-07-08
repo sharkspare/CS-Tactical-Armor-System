@@ -193,7 +193,6 @@ CS_Tactical_Armor_System_OpenSource/
 - [Mermaid 硬件架构图](docs/hardware-mermaid.md)
 - [Mermaid 软件架构图](docs/software-mermaid.md)
 - [Mermaid 系统总览与数据流图](docs/system-mermaid.md)
-- [GitHub 上传说明](GITHUB_UPLOAD_GUIDE.md)
 
 
 ## 十一、致谢
